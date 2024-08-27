@@ -19,6 +19,29 @@
 | **Geographical Analysis**    | • Top Performing Countries: Evaluation of countries leading in sales and profit from 2005 to 2008. <br> • Transaction Analysis: Total transactions and annual transaction volumes by country.  |
 | **Seasonal Trends**          | • Profit Contributions: Analysis of profit variations by month and week. <br> • Weekly and Quarterly Trends: Examination of profit distribution across weekdays and quarterly profit patterns.  |
 
+## Top Data-Driven Insights
+Key Metrics (2005-2008): Comprehensive analysis of revenue, profit, transactions, and quantities, including percentage changes over time.
+![Screenshot 2024-08-27 160401](https://github.com/user-attachments/assets/a367fe3c-725d-44d9-9b5b-4e2f54e3da53)
+
+Revenue and Profit by Country: Comprehensive annual breakdowns of revenue and profit across various countries.
+![Screenshot 2024-08-27 160534](https://github.com/user-attachments/assets/c1ab49e9-85fe-436e-9d2c-4b026fc3af27)
+
+## Product Performance
+Top Profitable Products: Identification and analysis of the most profitable products by country and year.
+![Screenshot 2024-08-27 160743](https://github.com/user-attachments/assets/07d798f4-b24d-4f20-a108-802cfd38c55c)
+
+Top 5 Profitable Products: Overview of the top five most profitable products by country for the period 2005-2008.
+![Screenshot 2024-08-27 160841](https://github.com/user-attachments/assets/5949a58b-a417-470f-a341-9a9a119f5eb6)
+
+Top Profitable Color: Insights into the most profitable product colors by country and year.
+![Screenshot 2024-08-27 160945](https://github.com/user-attachments/assets/ad839c7d-08ea-4bab-ac10-eb7d29d9977a)
+
+Least Profitable Color: Insights into the least profitable product colors by country and year.
+![Screenshot 2024-08-27 161100](https://github.com/user-attachments/assets/c3a56f89-4082-4cba-b08d-2181f86548e1)
+
+
+
+
 
 
 ## Page-1 Time Analysis
